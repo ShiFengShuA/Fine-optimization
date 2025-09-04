@@ -1,0 +1,6 @@
+#Options For Permanent Chat Logs
+#Sun Aug 17 14:06:08 CST 2025
+allowCorruptedChatlogs=true
+autoSaveIntervalInMs=100000
+realtimeChatlogSaving=true
+visibleLineCount=65535
