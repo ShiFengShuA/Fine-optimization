@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1756982126592
+  last_edited_time = 1757166022191
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:641b3da0-8077-4dda-9300-3ffb3f1b8ce0-1756982059706] = [groups:][instances:]
+  [loading_requirement_container_meta:80de95ee-0091-4ca7-95a0-1b473ae3817c-1757166010665] = [groups:][instances:]
 }
 
 menu_background {
@@ -111,7 +111,7 @@ element {
 
 element {
   interactable = true
-  source = 整合包版本1.0.0
+  source = 整合包版本1.0.1
   source_mode = direct
   shadow = false
   scale = 2.0
