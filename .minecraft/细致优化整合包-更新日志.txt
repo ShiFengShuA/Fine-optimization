@@ -1,23 +1,25 @@
 注意！整合包内容由PCL2下载并测试，使用HMCL打包，但此整合包在HMCL未进行深度测试，HMCL兼容性问题请自行解决。
-如遇整合包兼容性问题，请先尝试自行解决，若无法解决请反馈至邮箱shifengshua@qq.com
+如遇整合包兼容性问题，请先尝试自行解决，若无法解决请反馈至邮箱shifengshua@outlook.com
 ————————
 如有问题请反馈： 
-邮箱：shifengshua@qq.com
+邮箱：shifengshua@outlook.com
 ————————
 整合包名称：细致优化
-英文名称：Fine optimization
-整合包版本：1.0.1
-打包时间(24小时制)：2025年9月6日/00:50
-二次打包时间：2025年9月6日/21:52
+整合包版本：1.0.2
 游戏版本：1.21.1
-Mod加载器：Fabric-0.17.2
+Mod加载器：Fabric-0.18.4
 整合包制作软件：Plain Craft Launcher 2
 整合包打包软件：Hello Minecraft Launcher
 整合包制作：ShiFengShuA (是枫书啊)
-邮箱：shifengshua@qq.com
+邮箱：shifengshua@outlook.com
 ————————
 正式版更新日志：
 (该整合包基于作者个人使用的原版优化整合包而制作)
+
+2026.3.8-1.0.2
+1.添加了几个优化Mod
+2.移除了“更好的F3  |  BetterF3” (反向性能优化，F3界面是简单易懂了，但打开F3界面后帧率直接砍了一半)
+3.Fabric版本升为0.18.4
 
 2025.9.6/00:50-1.0.1
 1.Mod版本更新
